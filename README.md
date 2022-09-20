@@ -5,7 +5,7 @@ Create a local Dropbox/G-Drive like server-client architechture. The project is 
 
 Clone the repo
    ```sh
-   git clone https://github.com/SagnikHajra/file-synchronisation.git
+   https://github.com/maithili20/FileSynchronization.git
    ```
 
 Dependecies: Maven is needed.
